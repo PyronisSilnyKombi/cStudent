@@ -1,0 +1,3 @@
+Anna;Kwicinska;2001;k;biol;6;mat;5;fiz;4;mat;4
+Jan;Kowalski;1998;m;biol;2;fiz;1;mat;1;mat;1
+Piotr;Kaczmarek;2000;m;biol;5;fiz;3;mat;2;mat;1
